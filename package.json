@@ -1,0 +1,16 @@
+{
+  "name": "pm-to-dev",
+  "version": "1.0.0",
+  "description": "Trajetória de um Product Manager que quer mergulhar no mundo do desenvolvimento usando IA",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
